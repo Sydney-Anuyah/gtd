@@ -163,7 +163,3 @@ def update_dashboard(regions, countries, attacks, years):
         chart_rows.append(row)
 
     return kpi_cards, chart_rows
-
-
-if __name__ == '__main__':
-    app.run(debug=False)
