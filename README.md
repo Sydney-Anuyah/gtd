@@ -106,7 +106,7 @@ The presence of `Procfile` and `render.yaml` suggests readiness for deployment o
 
 
 ## Acknowledgment
-Thank you Jesus Christ for being my Number 1
+**Thank you Jesus Christ for being my Number 1 lover.** 
 Thank you to Mum and Dad my biggest supporters.
 Thank you Bolade Victor for all your support and help with the debugging process
 Thank you to Mikaylah Stumbo and Junaid Mohammed for making this project a great success
