@@ -208,3 +208,7 @@ def update_dashboard(regions, countries, attacks, years):
         chart_rows.append(row)
 
     return kpi_cards, chart_rows
+if __name__ == '__main__':
+    port = int(os.environ.get("PORT", 8050))
+    app.run(host='0.0.0.0', port=port, debug=False)
+ 
